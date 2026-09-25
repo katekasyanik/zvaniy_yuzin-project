@@ -11,6 +11,7 @@
 - [Отчёт по лабораторной работе №1](./Lab1_Report.docx)
 - [Репозиторий веб-приложения](https://github.com/katekasyanik/zvaniy_yuzin-web)
 - [Репозиторий мобильного приложения](https://github.com/katekasyanik/zvaniy_yuzin-mobile)
+- [Wiki проекта](https://github.com/katekasyanik/zvaniy_yuzin-project/wiki)
 
 ## Команда
 
